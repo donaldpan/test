@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TranslationRequests>
                                <TranslationRequest>
-                                           	<comment>The user can choose between selecting an organization or a group view</comment>
-                                           	<text key="CONTEXT_SELECTION.SELECT_VIEW">Select a view</text>
+                                           	<note>Imported from custom</note>
+                                           	<comment>View change link displayed to user on main screen.</comment>
+                                           	<text key="CONTEXT_SELECTION.CHANGE_VIEW">Click here to change view.</text>
+                               </TranslationRequest>
+                               <TranslationRequest>
+                                           	<note>Imported from custom</note>
+                                           	<comment>Last logins and information link displayed to user on main screen.</comment>
+                                           	<text key="CONTEXT_SELECTION.LATEST">Latest &lt;b&gt;Logins&lt;/b&gt; and Information.</text>
                                </TranslationRequest>
 </TranslationRequests>
