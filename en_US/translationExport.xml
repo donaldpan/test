@@ -10,4 +10,9 @@
                                            	<comment>Last logins and information link displayed to user on main screen.</comment>
                                            	<text key="CONTEXT_SELECTION.LATEST">Latest &lt;b&gt;Logins&lt;/b&gt; and Information.</text>
                                </TranslationRequest>
+                               <TranslationRequest>
+                                           	<note>Imported from base</note>
+                                           	<comment>Error message presented to user on main screen</comment>
+                                           	<text key="CONTEXT_SELECTION.ERROR">An error has occured.</text>
+                               </TranslationRequest>
 </TranslationRequests>
