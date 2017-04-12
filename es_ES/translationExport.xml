@@ -3,7 +3,7 @@
                                <TranslationRequest>
                                            	<note>Imported from custom</note>
                                            <comment>View change link displayed to user on main screen.</comment>
-                                           	<text key="CONTEXT_SELECTION.CHANGE_VIEW">Haga clic aquí para cambiar la vista.</text>
+                                           	<text key="CONTEXT_SELECTION.CHANGE_VIEW">Haga clic aquí para cambiar la vista CA_DEMOUPADTED.</text>
                                </TranslationRequest>
                                <TranslationRequest>
                                            	<note>Imported from custom</note>
