@@ -3,6 +3,6 @@
                                <TranslationRequest>
                                            	<note>Imported from base</note>
                                            <comment>The user can choose between selecting an organization or a group view</comment>
-                                           	<text key="CONTEXT_SELECTION.SELECT_VIEW">Select a {1} view here nowTRANSLATED</text>
+                                           	<text key="CONTEXT_SELECTION.SELECT_VIEW">Select a {1} view here nowDEMO-TRANSLATED</text>
                                </TranslationRequest>
 </TranslationRequests>
